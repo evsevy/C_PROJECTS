@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\PROGRAMMS_24\PLAY_THREADS2\main.cpp(84,21): warning C4305: аргумент: усечение из "__int64" в "int"
+D:\PROGRAMMS_24\PLAY_THREADS2\main.cpp(84,21): warning C4309: аргумент: усечение константного значения
+D:\PROGRAMMS_24\PLAY_THREADS2\main.cpp(85,21): warning C4305: аргумент: усечение из "__int64" в "int"
+D:\PROGRAMMS_24\PLAY_THREADS2\main.cpp(85,21): warning C4309: аргумент: усечение константного значения
+  PLAY_THREADS2.vcxproj -> D:\PROGRAMMS_24\PLAY_THREADS2\x64\Debug\PLAY_THREADS2.exe
