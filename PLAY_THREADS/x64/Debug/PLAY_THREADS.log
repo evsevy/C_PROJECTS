@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\PROGRAMMS_24\PLAY_THREADS\main.cpp(62,19): warning C4309: аргумент: усечение константного значения
+  PLAY_THREADS.vcxproj -> D:\PROGRAMMS_24\PLAY_THREADS\x64\Debug\PLAY_THREADS.exe
