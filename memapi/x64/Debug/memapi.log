@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\PROGRAMMS_24\memapi\main.cpp(42,43): warning C4244: =: преобразование "SIZE_T" в "DWORD", возможна потеря данных
+  memapi.vcxproj -> D:\PROGRAMMS_24\memapi\x64\Debug\memapi.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
